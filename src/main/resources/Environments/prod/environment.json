@@ -1,0 +1,22 @@
+{
+	"users": {
+		"ApiURL": "https://reqres.in",
+		"ApiBasePath": "/api",
+		"ApiVersion": ""
+	},
+	"unknown": {
+		"ApiURL": "https://reqres.in",
+		"ApiBasePath": "/api",
+		"ApiVersion": ""
+	},
+	"register": {
+		"ApiURL": "https://reqres.in",
+		"ApiBasePath": "/api",
+		"ApiVersion": ""
+	},
+	"login": {
+		"ApiURL": "https://reqres.in",
+		"ApiBasePath": "/api",
+		"ApiVersion": ""
+	}
+}

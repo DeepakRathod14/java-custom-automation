@@ -1,0 +1,9 @@
+{
+	"users": {
+		"ApiURL": "https://reqres.in",
+		"ApiBasePath": "/api",
+		"ApiVersion": ""
+	},
+	"payment":{
+	}
+}

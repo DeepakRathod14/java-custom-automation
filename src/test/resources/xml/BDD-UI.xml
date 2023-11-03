@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="1">
+ 	<test name="BQE_UI_Login_Positive">
+ 		<classes>
+ 			<class name="framework.bdd.runner.TestNGCukesRunner" />
+ 		</classes>
+ 	</test>
+
+	<!--<test name="BQE_UI_Login_Negative" >
+		<classes>
+			<class name="framework.tdd.ui.login.BQELoginFunctionality" />
+		</classes>
+	</test>-->
+
+</suite> 

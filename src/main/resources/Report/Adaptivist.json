@@ -1,0 +1,18 @@
+{
+	"CorrelationEngineJiraReporter": {
+		"EnableJiraReporter": true,
+		"JiraURL": "https://bqetrack.atlassian.net",
+		"ProjectID": 13707,
+		"ProjectKey": "GAL",
+		"JiraUserID": "cm-ci-user",
+		"JiraPassword": "",
+		"TestCycle": {
+			"name": "Automation Run | {name} | Build #{build_number} | {environment} Env - {date}",
+			"projectKey": "FAM",
+			"folder": "/Automation/CE Service"
+		},
+		"customFields": {
+			
+		}
+	}
+}
